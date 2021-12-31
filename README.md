@@ -1,6 +1,6 @@
 # PiClockMatrix
 
-Pyhon script for raspberry pi which with a pcb joystick, LED matrix and lcd screen which gives the time, weather, date, countdown ects .... 
+Pyhon script for raspberry pi with a pcb joystick, LED matrix and lcd screen which gives the time, weather, date, countdown ects .... 
 
 ### Version
 Version 0.10 - beta.
