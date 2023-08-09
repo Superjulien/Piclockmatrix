@@ -4,7 +4,7 @@
 # by superjulien 
 # > https://github.com/Superjulien
 # > https://framagit.org/Superjulien
-# V0.1
+# V0.10
 
 ####### Lcd + bouton
 import I2C_LCD_driver
