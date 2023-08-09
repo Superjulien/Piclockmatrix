@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 
+# Piclockmatrix
+# by superjulien 
+# > https://github.com/Superjulien
+# > https://framagit.org/Superjulien
+# V0.1
+
 ####### Lcd + bouton
 import I2C_LCD_driver
 import RPi.GPIO as GPIO
